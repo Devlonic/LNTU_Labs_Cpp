@@ -1,0 +1,128 @@
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student kakak
+marks: 
+average mark: -nan(ind)
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student kaka
+marks: 
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student kaka
+marks: 
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student kaka
+marks: 
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student kaka
+marks: 1 3 5 2 1 
+average mark: 2.4
+=========================
+
+=========================
+Student Vasya Pipko
+marks: 1 2 3 
+average mark: 2
+=========================
+
+=========================
+Student Ivan Popko
+marks: 6 10 2 
+average mark: 6
+=========================
+
+=========================
+Student Test
+marks: 
+=========================
